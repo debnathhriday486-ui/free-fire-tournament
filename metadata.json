@@ -1,0 +1,7 @@
+{
+  "name": "Free Fire Clash & Tournament Arena",
+  "description": "Free Fire tournament and 1v1 challenge arena with wallet management, QR & UPI add balance, bet matchmaking, withdrawal system, and admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
